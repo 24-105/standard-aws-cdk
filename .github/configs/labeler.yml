@@ -3,7 +3,7 @@ aws:
   - changed-files:
       - any-glob-to-any-file: 'aws/**'
 
-github_actions:
+.github:
   - changed-files:
       - any-glob-to-any-file: '.github/**'
 
